@@ -46,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
     "イオンのフードコート",
     "バイキング",
     "パスタ",
+    "お好み焼き風ドリア"
   ];
 
   @override
