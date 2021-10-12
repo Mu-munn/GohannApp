@@ -1,7 +1,7 @@
 # gohann_app
 
 App to decide today's meal.
-今日のご飯を決めるflutterwebアプリです。30分で作ったのでとてつもなく手抜きです。
+今日のご飯を決めるflutterwebアプリです。30分で作ったのでとてつもなく手抜きです。。。
 
 ## Getting Started
 
